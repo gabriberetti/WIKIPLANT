@@ -5,17 +5,19 @@ www.wikiplants.com (?)
 A 3D world map with a open source database of all plants and their BioData in MIDI format, accessible to everyone, for any kind of artistic or scientific-research purpose of sonifications. 
 
 ## Interface ##
-By rotating the 3D world map, zooming in the geographic area and clicking on the desired plant (or after finding it simply using the filter searchbar), a list of available MIDI files for download are shown, with a set of parameters or "Impressions" linked to the file and are used as parameters for filter searchbar, for quick analysis of the state of the plant and to have a general guideline of the kind of BioData contained in the MIDI files.
+By rotating the 3D world map, zooming in the geographic area and clicking on the desired plant (or after finding it simply using the filter searchbar), a list of available MIDI files for download are shown, with a set of parameters or "Impressions" linked to the file, which are used as parameters for filter searchbar, for quick analysis of the state of the plant and to have a general guideline of the kind of BioData contained in the MIDI files.
+As open source database, users can upload the BioData in MIDI files on the website. Following the guidelines of the parameters "Impressions", a detailed library would possibly flourish as more users would upload their BioData. Possibly in a couple of years, we would have a library of plants BioData and users could download and use the MIDI for studies, researches, sonifications and so on.  
 
 ## BioData Characteristics or Impressions ##
-- Name of the plant and general infos
+- Name of the plant, family
 - Date & Time of recording
 - Geographic area of the plant/recording
 - Health conditions of the plant
 
 ## Requirements ##
-- Databate of all plants (+Google?)
-- Database Cloud storage for uploading and storage of MIDI files
+- Home page with 3D worldmap view
+- Databate of all plants (+Google recognition for uploading?)
+- Database Cloud storage for uploading and storage of BioData MIDI files
 - Built-in generative audio sampler for quick preview
 - Filter searchbar (using Impressions parameters)
 - During upload process, pinpoint on Google map for a quick geolocation of the recording
@@ -26,8 +28,6 @@ By rotating the 3D world map, zooming in the geographic area and clicking on the
 - Helping researchers collecting useful BioData of plants
 - Offer a open source platform which at the moment doesn´t exist
 
-## Thoughts ##
-- Possibly in a couple of years, we would have a library of plants BioData and people would have the chance to study, experiment, collaborate and work with plants without having to travel.
 
 ## Useful links Q&A ##
 - <b> What is BioData Sonification? </b> biodata is biographical data “...factual kinds of questions about life and work experiences, as well as items involving opinions, values, beliefs, and attitudes that reflect a historical perspective.” (taken from wikipedia)
