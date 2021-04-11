@@ -24,9 +24,9 @@ As open source database, users can upload the BioData in MIDI files on the websi
 
 ## Goals ##
 - Raise awareness
-- Create a big impact in the future of electronic arts 
-- Helping researchers collecting useful BioData of plants
-- Offer a open source platform which at the moment doesn´t exist
+- Create a big impact in the future of electronic arts and helping new arts to be formed and recognised
+- Help researchers and scientists collecting and studyng BioData of plants for human services
+- Offer a free and open-source platform which at the moment doesn´t exist
 
 
 ## Useful links Q&A ##
