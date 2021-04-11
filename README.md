@@ -5,8 +5,8 @@ www.wikiplants.com (?)
 A 3D world map with an open source database of all plants and their BioData in MIDI format, accessible to everyone, for any kind of artistic or scientific-research purpose of sonifications. 
 
 ## Interface ##
-By rotating the 3D world map, zooming in the geographic area and clicking on the desired plant (or after finding it simply using the filter searchbar), a list of available MIDI files for download are shown, with a set of parameters or "Impressions" linked to the file, which are used as parameters for filter searchbar, for quick analysis of the state of the plant and to have a general guideline of the kind of BioData contained in the MIDI files.
-As open source database, users can upload the BioData in MIDI files on the website. Following the guidelines of the parameters "Impressions", a detailed library would possibly flourish as more users would upload their BioData. Possibly in a couple of years, we would have a library of plants BioData and users could download and use the MIDI for studies, researches, sonifications and so on.  
+By rotating the 3D world map, zooming into the geographic area and clicking on the desired plant (or after finding it simply using the filter searchbar), a list of available MIDI files for download are shown, with a set of parameters or "Impressions" linked to the file, which are used as parameters for filter searchbar, for quick analysis of the state of the plant and to have a general guideline of the kind of BioData contained in the MIDI files.
+As an open source database, users can upload the BioData in MIDI files on the website. Following the guidelines of the parameters "Impressions", a detailed library would possibly flourish as more users would upload their BioData. Possibly in a couple of years, we would have a library of plants BioData and users could download and use the MIDI for studies, researches, sonifications and so on.  
 
 ## BioData Characteristics or Impressions ##
 - Name of the plant, family
@@ -16,7 +16,7 @@ As open source database, users can upload the BioData in MIDI files on the websi
 
 ## Requirements ##
 - Home page with 3D worldmap view
-- Databate of all plants (+Google recognition for uploading?)
+- Databate of all plants (+Google recognisation for uploading?)
 - Database Cloud storage for uploading and storage of BioData MIDI files
 - Built-in generative audio sampler for quick preview
 - Filter searchbar (using Impressions parameters)
@@ -25,7 +25,7 @@ As open source database, users can upload the BioData in MIDI files on the websi
 ## Goals ##
 - Raise awareness
 - Create a big impact in the future of electronic arts and helping new arts to be formed and recognised
-- Help researchers and scientists collecting and studyng BioData of plants for human services
+- Help researchers and scientists collecting and studying BioData of plants for human services
 - Offer a free and open-source platform which at the moment doesn´t exist
 
 
