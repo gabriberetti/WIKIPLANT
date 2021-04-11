@@ -13,7 +13,7 @@ By rotating the 3D world map, zooming in the geographic area and clicking on the
 - Geographic area of the plant/recording
 - Health conditions of the plant
 
-## Requirements for the website ##
+## Requirements ##
 - Databate of all plants (+Google?)
 - Database Cloud storage for uploading and storage of MIDI files
 - Built-in generative audio sampler for quick preview
@@ -23,7 +23,14 @@ By rotating the 3D world map, zooming in the geographic area and clicking on the
 ## Goals ##
 - Raise awareness
 - Create a big impact in the future of electronic arts 
-- Offer a service which at the moment doesn´t exist
+- Helping researchers collecting useful BioData of plants
+- Offer a open source platform which at the moment doesn´t exist
 
 ## Thoughts ##
-- Possibly in a couple of years, we would have a library of BioData and people will have the chance to study and work with plants without having to travel and record it themselves.
+- Possibly in a couple of years, we would have a library of plants BioData and people would have the chance to study, experiment, collaborate and work with plants without having to travel.
+
+## Useful links Q&A ##
+- <b> What is BioData Sonification? </b> biodata is biographical data “...factual kinds of questions about life and work experiences, as well as items involving opinions, values, beliefs, and attitudes that reflect a historical perspective.” (taken from wikipedia)
+- <b> What is Sonification? </b> Sonification is the use of non-speech audio to convey information or perceptualize data.
+Video of air pollution data from Beijing being conveyed as a piece of music: https://commons.wikimedia.org/wiki/File:Air_Play_-_Sonification_of_Beijing_Air_Quality_Data.webm
+- <b> What is Midi? </b> MIDI (/ˈmɪdi/; an acronym for Musical Instrument Digital Interface) is a technical standard that describes a communications protocol, digital interface, and electrical connectors that connect a wide variety of electronic musical instruments, computers, and related audio devices for playing, editing and recording music
