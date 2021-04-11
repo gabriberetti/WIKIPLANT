@@ -21,6 +21,7 @@ As an open source database, users can upload the BioData in MIDI files on the we
 - Built-in generative audio sampler for quick preview
 - Filter searchbar (using Impressions parameters)
 - During upload process, pinpoint on Google map for a quick geolocation of the recording
+- Plant camera scan option for mobile devices 
 
 ## Goals ##
 - Raise awareness
