@@ -13,13 +13,12 @@ By rotating the 3D world map, zooming in the geographic area and clicking on the
 - Geographic area of the plant/recording
 - Health conditions of the plant
 
-## Requirements ##
+## Requirements for the website ##
 - Databate of all plants (+Google?)
-- Database Cloud storage for uploading MIDI files
+- Database Cloud storage for uploading and storage of MIDI files
 - Built-in generative audio sampler for quick preview
 - Filter searchbar (using Impressions parameters)
 - During upload process, pinpoint on Google map for a quick geolocation of the recording
-- 
 
 ## Goals ##
 - Raise awareness
