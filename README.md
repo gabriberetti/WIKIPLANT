@@ -2,7 +2,7 @@
 www.wikiplants.com (?)
 
 ## Description ## 
-A 3D world map with a open source database of all plants and their BioData in MIDI format, accessible to everyone, for any kind of artistic or scientific-research purpose of sonifications. 
+A 3D world map with an open source database of all plants and their BioData in MIDI format, accessible to everyone, for any kind of artistic or scientific-research purpose of sonifications. 
 
 ## Interface ##
 By rotating the 3D world map, zooming in the geographic area and clicking on the desired plant (or after finding it simply using the filter searchbar), a list of available MIDI files for download are shown, with a set of parameters or "Impressions" linked to the file, which are used as parameters for filter searchbar, for quick analysis of the state of the plant and to have a general guideline of the kind of BioData contained in the MIDI files.
