@@ -30,7 +30,7 @@ As open source database, users can upload the BioData in MIDI files on the websi
 
 
 ## Useful links Q&A ##
-- <b> What is BioData Sonification? </b> biodata is biographical data “...factual kinds of questions about life and work experiences, as well as items involving opinions, values, beliefs, and attitudes that reflect a historical perspective.” (taken from wikipedia)
+- <b> What is BioData? </b> biodata is biographical data “...factual kinds of questions about life and work experiences, as well as items involving opinions, values, beliefs, and attitudes that reflect a historical perspective.” (taken from wikipedia)
 - <b> What is Sonification? </b> Sonification is the use of non-speech audio to convey information or perceptualize data.
 Video of air pollution data from Beijing being conveyed as a piece of music: https://commons.wikimedia.org/wiki/File:Air_Play_-_Sonification_of_Beijing_Air_Quality_Data.webm
 - <b> What is Midi? </b> MIDI (/ˈmɪdi/; an acronym for Musical Instrument Digital Interface) is a technical standard that describes a communications protocol, digital interface, and electrical connectors that connect a wide variety of electronic musical instruments, computers, and related audio devices for playing, editing and recording music
